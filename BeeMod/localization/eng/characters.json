@@ -1,0 +1,16 @@
+{
+  "BEEMOD-BEE_MOD.aromaPrinciple": "Lore",
+  "BEEMOD-BEE_MOD.banter.alive.endTurnPing": "Co-op hurry up end turn ping message",
+  "BEEMOD-BEE_MOD.banter.dead.endTurnPing": "...",
+  "BEEMOD-BEE_MOD.cardsModifierDescription": "__ cards will now appear in rewards and shops.",
+  "BEEMOD-BEE_MOD.cardsModifierTitle": "__ Cards",
+  "BEEMOD-BEE_MOD.description": "Character Selection\nScreen Description",
+  "BEEMOD-BEE_MOD.eventDeathPrevention": "Co-op survival line",
+  "BEEMOD-BEE_MOD.goldMonologue": "Line spoken when obtaining a large amount of gold",
+  "BEEMOD-BEE_MOD.possessiveAdjective": "his/her/its",
+  "BEEMOD-BEE_MOD.pronounObject": "him/her/it",
+  "BEEMOD-BEE_MOD.pronounPossessive": "his/hers/its",
+  "BEEMOD-BEE_MOD.pronounSubject": "he/she/it",
+  "BEEMOD-BEE_MOD.title": "The Bee",
+  "BEEMOD-BEE_MOD.titleObject": "The Bee"
+}

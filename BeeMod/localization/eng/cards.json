@@ -1,0 +1,6 @@
+{
+  "BEEMOD-STING.description": "Deal {Damage:diff()} damage.\nApply {Poison:diff()} [gold]Poison[/gold].",
+  "BEEMOD-STING.title": "Sting",
+  "BEEMOD-BLOOM.description": "[gold]Plant[/gold] a [gold]Green Flower[/gold] with {Plant:diff()} HP.",
+  "BEEMOD-BLOOM.title": "Bloom"
+}

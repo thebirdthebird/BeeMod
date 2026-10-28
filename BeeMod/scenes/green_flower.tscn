@@ -1,0 +1,28 @@
+[gd_scene load_steps=2 format=3 uid="uid://c5ui6qeapldxy"]
+
+[ext_resource type="Texture2D" uid="uid://bl6xrxkmessje" path="res://BeeMod/images/green_flower.png" id="1_fvir8"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Visuals" type="Node2D" parent="."]
+
+[node name="Sprite" type="Sprite2D" parent="Visuals"]
+position = Vector2(0, -70.4)
+scale = Vector2(0.2, 0.2)
+texture = ExtResource("1_fvir8")
+
+[node name="IntentPosition" type="Marker2D" parent="."]
+position = Vector2(0, -180)
+
+[node name="CenterPos" type="Marker2D" parent="."]
+position = Vector2(0, -102)
+
+[node name="Bounds" type="Control" parent="."]
+anchors_preset = 0
+offset_left = -67.0
+offset_top = -141.0
+offset_right = 67.0

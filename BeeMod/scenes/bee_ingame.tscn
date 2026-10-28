@@ -1,0 +1,28 @@
+[gd_scene load_steps=2 format=3 uid="uid://4bnd7my754mu"]
+
+[ext_resource type="Texture2D" uid="uid://cnixk82n3f7hr" path="res://BeeMod/images/bee.png" id="1_emk32"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Visuals" type="Node2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="Visuals"]
+position = Vector2(0, -161.825)
+scale = Vector2(0.18, 0.18)
+texture = ExtResource("1_emk32")
+
+[node name="Bounds" type="Control" parent="."]
+anchors_preset = 0
+offset_left = -123.0
+offset_top = -320.0
+offset_right = 123.0
+
+[node name="IntentPosition" type="Marker2D" parent="."]
+position = Vector2(0, -340)
+
+[node name="CenterPos" type="Marker2D" parent="."]
+position = Vector2(0, -160)
